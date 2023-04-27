@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on **Java**
 - 🌱 I’m currently learning **Technical Skills**
 - 💬 Ask me about **Web Development**
-- 📫 You can **Connect** me on **[LinkedIn]**(http://www.linkedin.com/in/aman-jain-btech-it24)
+- 📫 You can **Connect** me on **[LinkedIn](http://www.linkedin.com/in/aman-jain-btech-it24)**
 
 
