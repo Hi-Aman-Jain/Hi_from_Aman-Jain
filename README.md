@@ -1,4 +1,4 @@
-### Hi techies! 👋
+## Hi techies! 👋
 
 <h3 align="center">I am Aman Jain, I am a 3rd Year student persuing a Btech with a strong focus on IT branch at JECRC Foundation</h3
 
